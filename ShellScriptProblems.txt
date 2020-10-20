@@ -1,0 +1,40 @@
+1. Write a script that would display the time when run
+2. Write a script that will return the number of parameters on the command line.
+3. Given a file of numbers (one per line), write a script that will find the lowest and highest number
+4. Write a script that will accept any number of parameters. The program should display whether an odd or an even number of parameters was given.
+
+5. Write a script asking the user to input some numbers. The script should stop asking for numbers when the number 0 is entered. The output should look like:
+b)		user: logon_name
+c)		Lowest number entered:
+e)		Highest number entered:
+
+
+6.	Write a script that will take an undetermined list of parameters, and reverse them.
+
+7.	Write a Shell script that runs in the background and informs you when a person logs onto the system. The user-id of the person is to be passed as a command line argument. 
+
+8.	Write a script that will take a person's name as a parameter to the program name. The script should greet that person, as   
+	Good Day name_entered, How are you today?
+
+9.	Write a series of scripts that will count the number of parameters on the command line, first using the for statement, then the while and finally the until statement. (Three scripts).
+
+10.	Write a script that will echo the third parameter, but only if it is present.
+
+11.	. Write a script that would recognize if a word entered from the keyboard started with an upper or lower case character or a digit. Use the "case" statement.
+The script would then output the word, followed by "upper case", "lower case", "digit", or "not upper, lower, or digit".
+
+12.	Write a script that reads a "password" from a user (it will not show when typed, but will get displayed after the carriage return is entered).
+
+13.	Write a Shell script to reverse a string. The string is to be passed as a command line argument.
+
+14.	Write a Shell script that cleans up a directory by removing all duplicate files in a directory. Duplicates are those that have identical contents. ( Note: To avoid a lot of grief, do not use rm in initial untested versions of your program )
+
+15.	Write a script which reads a number from the argument line and prints all numbers from 1 to that number.
+
+16. Write a script which prints a menu as follows:
+	a. Display file
+	b. Rename file
+	c. Remove file
+	d. Quit
+	Enter your choice:
+
